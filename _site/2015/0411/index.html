@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+	<head> <!--head-->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>ターミナルをはじめる</title>
+		<meta name="viewport" content="width=device-width">
+		<meta name="description" content="">
+		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Hind:400,300' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Fira+Sans:300,400,500' rel='stylesheet' type='text/css'>
+		<link rel="canonical" href="http://phantomkun.webcrow.jp//2015/0411/">
+	
+		<!-- Custom CSS -->
+		<link href="/css/reset.css" rel="stylesheet" >
+		<link href="/css/bijou.min.css" rel="stylesheet" >
+		<link href="/css/main2.css" rel="stylesheet">
+		<link href="/css/flaticon.css" rel="stylesheet">
+
+
+		<!--<link href="/css/main.css" rel="stylesheet">-->
+	</head> <!--head-->
+
+	<body>
+		<div class='row'>
+
+			<div class='span two'>
+				
+			
+					<h1><a href="/"><i class="flaticon-fish18"></i></a> <a href="/about/" class="name">rotanev</a></h1>
+					
+					
+			
+			
+
+
+			</div>
+			<div class='span eight'>
+				<article>	
+									<header class="post"> <!--post-->
+					<ul class="cf">
+							<li>
+							<h2>ターミナルをはじめる </h2>
+							<div class="date">2015-04-11 /  terminal </div>
+							</li>
+					</ul>
+					
+				</header>
+				<section class="post">
+					<p>知っておいたほうが作業効率があがりそうだ、ということで業務の合間にターミナルを勉強している。プログラムはまだ難しいけど、基本操作ぐらいは慣れておきたい。 
+コマンドと縁のないPC生活を送ってきたため正直どこでなにをどうするのかもまるでわからないのだが、そうなると俄然モチベーションがあがる。何故か。  </p>
+
+<p>通称&quot;黒い画面&quot;と呼ばれるターミナル(windowsではコマンドライン)。<br>
+パソコンの操作というと、マウスで画面上のアイコンをクリックしたりファイルをドラッグして別の場所に移したりするイメージが浮かびますが、この黒い画面の中にある決まった文言(コマンド)を打ち込むと、そういうのと同じ作業ができます。  </p>
+
+<p>&quot;ターミナル&quot;はアプリケーションの名前で、黒い画面のことはシェルと呼ぶ。
+<blockquote>
+シェル (shell) はオペレーティングシステム (OS) のユーザーのためにインタフェースを提供するソフトウェアであり、カーネルのサービスへのアクセスを提供する。
+</blockquote>  </p>
+
+<p>まずわたしのシェル。</p>
+
+<p><img src="/img/2015-04-11-terminal.png" alt=""></p>
+
+<p>ずっとbashをつかってたけど最近zshにかえた。<br>
+ところでzshとは。</p>
+
+<blockquote>
+Z shell（zsh, 英語発音: [ziː ʃel]）はUnixのコマンドシェルの1つである。 
+対話的なログインコマンドシェルとしても、強力なシェルスクリプトコマンドのインタープリターとしても使うことができる。
+</blockquote>
+
+<p>bashよりはzshのほうが多機能なんだという。
+それにしてもttysってどんな意味なのだろう。ついチチヤスと読んでしまう。</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">Last login: Sat Apr 11 18:00:09 on ttys000
+</code></pre></div>
+<hr>
+
+<p>マークアップでもプログラミングでも、予めどこかのライブラリに格納されてる一連の作業を特定の単語を入力して呼び出す、みたいなことを繰り返していくのが基本。ピカチュウがモンスターボールから出てくるイメージ。<br>
+ちなみに、呼び出すだけではなく自分でこれはまとめといたほうがいいなと思うものを、変数を使ってどこかに格納しておくことも可能だったりする。</p>
+
+<p>ターミナルではこのシェルにコマンドを入れていく。</p>
+
+<h4>cd</h4>
+
+<p>特定のディレクトリへ移動する</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">cd 移動したいディレクトリ
+</code></pre></div>
+<p>一つ上に戻りたいときは</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">cd -
+</code></pre></div>
+<hr>
+
+<h4>ls</h4>
+
+<p>(= list segment)<br>
+指定フォルダ内のファイルを一覧表示する</p>
+
+<p><img src="/img/2015-04-11-terminal_2.png" alt=""></p>
+
+<p>ユーザーディレクトリでlsするとこんなかんじ</p>
+
+<hr>
+
+<h4>open</h4>
+
+<p>ディレクトリ(またはファイル)をひらく</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">open ディレクトリ名(またはファイル名)
+</code></pre></div>
+<h4>mv</h4>
+
+<p>ファイルを移動する</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">mv 移動するファイル 移動先のディレクトリ
+</code></pre></div>
+<hr>
+
+<h4>cp</h4>
+
+<p>ディレクトリを指定してファイルをコピーする</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">cp コピーするファイル コピー先のディレクトリ
+</code></pre></div>
+<p>同じディレクトリのなかでファイルを複製する</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">cp 複製元のファイル 複製するファイル
+</code></pre></div>
+<hr>
+
+<h4>mkdir</h4>
+
+<p>ディレクトリをつくる</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">mkdir ディレクトリ名
+</code></pre></div>
+<hr>
+
+<p>まだあるけど、とりあえずここまで。<br>
+マウスつかわずにfinderからファイルを開きたいとき、<code>open ディレクトリ</code>のコマンドと<code>command+O</code>のショートカットキーを組み合わせると、ぱぱっと目当てのファイルが開ける。もちろんディレクトリの部分にファイル名を入れれば、ショートカットキーを使わずに一発で開ける。</p>
+
+<p>ちなみに、Mac上で管理するファイルの名前はできれば本当はぜんぶ英語にしたほうがよい。コマンドを英数字で打って、かな入力に切り替えて、日本語のファイル名を打って、だけでもなかなかの手間だからです。</p>
+
+
+				</section>
+				<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'rotanev';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+				<!--post-->
+				</article>
+				
+			</div>
+		</div>
+					<footer> <!--footer-->
+				<div class="footer-column">
+			
+				</div>
+			</footer> <!--footer-->
+
+		<script src="/js/jquery.js"></script>
+		<script src="/js/fitvids.js"></script>
+		<script src="/js/jq.js"></script>
+		<script>
+  $(document).ready(function(){
+    $("div").fitVids();
+  });
+</script>
+
+		</div>
+
+	</body>
+</html>

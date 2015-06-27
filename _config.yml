@@ -1,0 +1,10 @@
+# Site settings
+title: rotanev
+description: ""
+url: "http://phantomkun.webcrow.jp/"
+twitter_username: 
+
+
+# Build settings
+markdown: redcarpet
+permalink: /:year/:month:day/

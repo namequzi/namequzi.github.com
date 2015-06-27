@@ -1,0 +1,16 @@
+---
+layout: default
+---
+				<header class="category">
+				</header>
+				<section class="category">
+					<ul class="cf">
+					{% for post in site.categories[page.category] %}
+						<li class="cf">
+							<span>{{ post.date | date: "%y.%m.%d" }} </span>
+							<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+						</li>
+						{{ post.content }}
+							{% endfor %}
+					</ul>
+				</section>

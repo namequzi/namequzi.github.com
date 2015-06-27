@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+	<body>
+		<div class='row'>
+
+			<div class='span two'>
+				{% include sidebar.html %}
+			</div>
+			<div class='span eight'>
+				<article>	
+					{{ content }}
+				</article>
+				
+			</div>
+		</div>
+		{% include footer.html %}
+		<script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
+		<script src="{{ "/js/fitvids.js" | prepend: site.baseurl }}"></script>
+		<script src="{{ "/js/jq.js" | prepend: site.baseurl }}"></script>
+		<script>
+  $(document).ready(function(){
+    $("div").fitVids();
+  });
+</script>
+
+		</div>
+
+	</body>
+</html>
