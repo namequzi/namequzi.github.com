@@ -90,6 +90,10 @@ h1{
 	text-transform: uppercase;
 }
 
+h1.blog{
+	margin: 40px 0 40px 0;
+}
+
 
 h2{
 	margin-bottom: 0;
@@ -107,8 +111,22 @@ h2,
 	color: #999;
 }
 
+hr.title{
+		margin: 2em 0;
+		border-width: 1px 0px 0px 0px;
+	   border-style: dashed;
+	   border-color: #ccc;
+	   height: 1px;
+
+	}
+}
+
 section.post{
-	margin: 40px 0 0 40px;
+	margin: 40px 0 40px 0;
+}
+
+#disqus_thread{
+	margin-top: 60px;
 }
 
 	section.post h1,
@@ -126,9 +144,11 @@ section.post{
 
 header.post{
 	padding-bottom: 20px;
-	margin-bottom: 20px;
-	border-bottom: 1px solid #eee;
+	margin-bottom: 50px;
+}
 
+header.post h2{
+	color:#16a085;
 }
 .two span{ text-transform: uppercase;}
 
@@ -165,17 +185,17 @@ img.logoimg{
 blockquote{
 	margin-left: 10px;
 	padding-left: 10px;
-	border-left: 3px solid #ccc;
+	border-left: 3px solid #4ECDC4;
 	border-radius: 0px;
 	background-color: #FFF;
 	color: #999;
 }
 
 
-body{ scrollbar-base-color: #CCD6DD; }
+body{ scrollbar-base-color: #4ECDC4; }
 body::-webkit-scrollbar{ width: 5px; height: auto; }
 body::-webkit-scrollbar-track{ background: #FFF; -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.0); }
-body::-webkit-scrollbar-thumb{ background:#CCD6DD; }
+body::-webkit-scrollbar-thumb{ background:#4ECDC4; }
 
 
 
