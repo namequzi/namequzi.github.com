@@ -231,6 +231,8 @@ a.name{
 	section.pages{
 		font-size: 1em;
 		line-height:2em;
+		letter-spacing: normal;
+		text-align:left;
 	}
 
 	iframe{
