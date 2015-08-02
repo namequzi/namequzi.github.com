@@ -2,28 +2,16 @@
 layout: default
 ---
 
+
+
 				<section class="archive">
-					<h2>PIC</h2>
-					<ul class="cf">
-						{% for post in site.categories.pict %}
-						<li class="cf">
-							<span class="date">{{ post.date | date: "%y.%m.%d" }} </span>
+					<ul>
+						{% for post in site.posts %}
+						<li>
 							<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-							<div class="excerpt">{{thumbnail }}</div>
+							<span class="date">{{ post.date | date: "%Y-%m-%d" }} / {% for category in  post.categories %} {{ category }} {% endfor %}</span>
 						</li>
-							{% endfor %}
+					{% endfor %}
 					</ul>
 
-					<hr>
-
-					<h2>NOTE</h2>
-					<ul class="cf">
-						{% for post in site.categories.note %}
-						<li class="cf">
-							<span class="date">{{ post.date | date: "%y.%m.%d" }} </span>
-							<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-							<div class="excerpt">{{post.excerpt }}</div>
-						</li>
-							{% endfor %}
-					</ul>
 				</section>

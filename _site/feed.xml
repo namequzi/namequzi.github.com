@@ -1,448 +1,134 @@
-<!DOCTYPE html>
-<html>
-	<head> <!--head-->
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>rotanev</title>
-		<meta name="viewport" content="width=device-width">
-		<meta name="description" content="">
-		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Hind:400,300' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Fira+Sans:300,400,500' rel='stylesheet' type='text/css'>
-		<link rel="canonical" href="http://phantomkun.webcrow.jp//feed.xml">
-	
-		<!-- Custom CSS -->
-		<link href="/css/reset.css" rel="stylesheet" >
-		<link href="/css/bijou.min.css" rel="stylesheet" >
-		<link href="/css/main2.css" rel="stylesheet">
-		<link href="/css/flaticon.css" rel="stylesheet">
-
-
-		<!--<link href="/css/main.css" rel="stylesheet">-->
-	</head> <!--head-->
-
-	<body>
-		<div class='row'>
-
-			<div class='span two'>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title></title>
+		<description></description>
+		<link>http://phantomkun.webcrow.jp/</link>
+		<atom:link href="http://phantomkun.webcrow.jp//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Photoshopのワークスペースを作りなおした</title>
 				
-
-					<h1 class="blog"><a href="/">rotanev</a> <a href="/about/" class="name">about</a></h1><hr>
-
-			</div>
-			<div class='span eight'>
-				<article>	
-					<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>rotanev</title>
-    <description></description>
-    <link>http://phantomkun.webcrow.jp//</link>
-    <atom:link href="http://phantomkun.webcrow.jp//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Jul 2015 23:16:54 +0900</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2015 23:16:54 +0900</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>鴨居玲展</title>
-        <description>&lt;p&gt;職場から近い東京ステーションギャラリー。電車の中吊り広告で見かけてから気になっていたので、会社で暑気払い会やるまえにちょっと行ってきた。
-&lt;img src=&quot;/img/2015-07-12-1.jpg&quot; alt=&quot;&quot;&gt;
-色彩も構成力もすごくて、その代わり精神的にしんどい作品が多かった。同じタイミングで賑やかなおばちゃん集団が入ってきたが、そのくらいのテンションでみたほうがいいと思う。&lt;/p&gt;
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/img/2015-08-02-workspace.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 12 Jul 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0712/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0712/</guid>
-        
-        
-        <category>note</category>
-        
-      </item>
-    
-      <item>
-        <title>7月までに聴いたものまとめ</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/2015-07-10.jpg&quot; alt=&quot;&quot;&gt;
-ついに来てしまった。定額払って音楽聞き放題の時代が。&lt;br&gt;
-というわけでとりあえずチェックしておきたいものだけマイミュージックに放り込んで、あとはWIFI経由でiphoneにダウンロードしたり消したり、な感じでいろいろ聴いています。&lt;/p&gt;
-
-&lt;p&gt;90年代後半にけっこうブームだったトラックメイカーでティンバランドという人がいたが、
-彼がプロデュースしてるシンガーの女の子。Tink。20歳。なかなか、かわいらしい声。&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QHHcJWvYs1w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;音がめっちゃ懐かしい…
-ちょっと前に聴いてはまってたTinasheと近い気配が。&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QXQPDNuOUCo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;懐かしい枠だとRochelle Jordanとか。&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UeNtz1euQvQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;かわいい枠ではAmbre Perkinsとか。&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qcJlP3BvNmk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Kehlaniはちょっとハスキー。&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9YwJiVRlR3c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;インターネットでブログをかきはじめた頃に後追いでJodeciにはまって、復活しないかなあとよくこぼしていたんですが、さくっと再結成してた。
-Cry for you(https://www.youtube.com/watch?v=4JwHA495iHU)の冬バージョンみたいなPVだが、なぜかK-CiとDevanteしかいない。&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UY7qKmsxSSk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;あとはKPOP。
-おそらく去年いちばんはまった。2PM。
-どうみても呑み会のテンションとしか思えない、頭のネジが何本もはずれたダンスがファンキーでグルーヴィーなリズムにのせて、4分弱つづく。&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uwD51VS0Uko&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;練習動画はもっとひどい。これがきちんと計算されたダンスだという事実が、どこまでも怖い。&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZFbXInOWXDQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;あとINFINITE。去年くらいからはまっていて、今年はライブに行った。&lt;br&gt;
-2000年代初頭から中盤にかけて活躍していた松尾潔というR&amp;amp;B系の音楽プロデューサーがいたが(&lt;a href=&quot;https://www.youtube.com/watch?v=EgNrCwQ1O_0&quot;&gt;ChemistryのPieces of a dream&lt;/a&gt;を作った人)、そんな彼がINFINITEに曲をかいたという。彼のプロデュース作が収録されたSmoothコンピを聴きながら中学生時代をすごしたジャストに世代のわたしはとても浮足立っていた。&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zRSVnM9MG_0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wgmSImDoJNg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;h2&gt;INFINITEはレトロな作風で、光GENJIとか少年隊みたいな雰囲気。PVの冒頭でなぜか車が横転する。&lt;/h2&gt;
-
-&lt;p&gt;あと気になったのがHISTORY。&lt;br&gt;
-カットアップの仕方とか、粘着性のある雰囲気作りがすごくティンバランド。&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/N1Bzktonj9I&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8O_msAAp-Oc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;ガールズグループAOAのラッパー・ジミン。ネスティな声が&lt;a href=&quot;https://www.youtube.com/watch?v=7LP4foN3Xs4&quot;&gt;2NE1のCL&lt;/a&gt;に似ててかわいい。
-&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ebActoaqHFE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;AOAはキャットウーマンモチーフのこの曲がよかった。
-&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qEYOyZVWlzs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/p&gt;
+				
+				<pubDate>Sun, 02 Aug 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0802/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0802/</guid>
+			</item>
+		
+			<item>
+				<title>鴨居玲展</title>
+				
+				
+					<description>&lt;p&gt;職場から近い東京ステーションギャラリー。電車の中吊り広告で見かけてから気になっていたので、会社で暑気払い会やるまえにちょっと行ってきた。&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jul 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0710/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0710/</guid>
-        
-        
-        <category>music</category>
-        
-      </item>
-    
-      <item>
-        <title>京都に行きました</title>
-        <description>&lt;p&gt;5月、6月とつづけて京都に行った。なんのことはなく、ただの出張である。
-&lt;img src=&quot;/img/2015-07-01.jpg&quot; alt=&quot;&quot;&gt;
-豚肉の炙り焼き。なかなかおいしかった。駅弁は駅弁っていうだけでおいしさが倍増してるような気がする。
-&lt;img src=&quot;/img/2015-07-01-2.jpg&quot; alt=&quot;&quot;&gt;
-JR京都線。西日本は旅客車がのんびり走っているのをよく見かけるが、めずらしくこのときは通勤車両に乗り合わせた。椅子の作りがだいぶミニマルである。あと空間が広々している。&lt;br&gt;
-旅客車は東京だと甲府行きの中央本線くらいしかもう見かけない。
-&lt;img src=&quot;/img/2015-07-01-3.jpg&quot; alt=&quot;&quot;&gt;
-東京のようにドア付近ではなく、なんと座席天井についている液晶ナビ。優雅。
-&lt;img src=&quot;/img/2015-07-01-4.jpg&quot; alt=&quot;&quot;&gt;
-いつ来ても、バックパックの欧米人やキャリーケースを持ったおじさんおばさんがいる京都駅。&lt;/p&gt;
-
-&lt;p&gt;もう少しいろいろまわって写真撮りたいなと思うのだが、大抵は疲れてササッとごはん買って新幹線に潜り込んでしまう。
-次は仕事じゃなくて私用で行きたいなー京都。&lt;/p&gt;
+				
+				<pubDate>Sun, 12 Jul 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0712/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0712/</guid>
+			</item>
+		
+			<item>
+				<title>7月までに聴いたものまとめ</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/img/2015-07-10.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 01 Jul 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0701/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0701/</guid>
-        
-        
-        <category>note</category>
-        
-      </item>
-    
-      <item>
-        <title>あたらしいカメラ</title>
-        <description>&lt;p&gt;ブログのジェネレーターがおかしくなってしばらく更新できずにいた。&lt;br&gt;
+				
+				<pubDate>Fri, 10 Jul 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0710/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0710/</guid>
+			</item>
+		
+			<item>
+				<title>京都に行きました</title>
+				
+				
+					<description>&lt;p&gt;5月、6月とつづけて京都に行った。なんのことはなく、ただの出張である。&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 01 Jul 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0701/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0701/</guid>
+			</item>
+		
+			<item>
+				<title>あたらしいカメラ</title>
+				
+				
+					<description>&lt;p&gt;ブログのジェネレーターがおかしくなってしばらく更新できずにいた。&lt;br&gt;
 rubyをまったくアップデートしてなかったのが理由でした。&lt;/p&gt;
-
-&lt;p&gt;縁あってミラーレス一眼を譲り受けた。&lt;br&gt;
-Canonユーザーなため少々まだ外観に戸惑うことが多いものの、液晶が滑らかで性能良さそう。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/2015-06-27_IMG_4692_.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;それからちょっと思い切って、iMacを27インチに新調してみた。&lt;br&gt;
-なんていうか当たり前だが画面が広い。デスクの壁一面ディスプレイみたいな感覚。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 27 Jun 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0627/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0627/</guid>
-        
-        
-        <category>note</category>
-        
-      </item>
-    
-      <item>
-        <title>ルノアールの椅子</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/2015-04-26-renoir.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;先日、初めてルノアールに行った。&lt;br&gt;
-国立新美術館でマグリットを観てから間髪入れずにサントリー美術館に趣き、六本木アートナイトの喧騒に紛れつつ特別料金500円で伊藤若冲と与謝蕪村を観たあとで、妹もわたしも疲労困憊していた。近接していると言えど、美術展のハシゴは身体にくるものがある。夜は近くの店で豚をたべる予定になっていたが、まだ定刻まで2時間弱もあった。スタバでもドトールでもいいからどこか、とおもっていたところに現れた喫茶室ルノアールの文字。&lt;/p&gt;
-
-&lt;p&gt;吸い込まれる。背中はおろか、身体もろとも吸い込んではすべてをゼロへと帰していく。疲労と四月ならざる暑さから完全にミイラと化していたわたしは、そうやってルノアールの椅子に座りながらさぞかし気持ち悪い表情を浮かべていたことだろう。椅子おいしい…椅子…フ、フ、フカフカーーーーーッ&lt;/p&gt;
-
-&lt;p&gt;黙々と本を読むわたしと妹。その隣では着物姿の老女たちが5人、楽しそうに話している。後ろには、腕組みをしながら眠りこける男性と静かに文庫本を広げる女性。右隣にMacBookで仕事をしている男性。休日の六本木ということで、だいぶ店内は賑やかだった。その割には集中して読書ができたのだが、これは主にフカフカ椅子の功績であろうか。&lt;/p&gt;
-
-&lt;p&gt;ちょっと気になりwikipediaで調べたら、こんな一文がみつかった。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;ルノアールの特徴ともいうべきロビー風喫茶室のスタイルは、「絨毯に金をかけすぎて資金不足となり、苦し紛れに椅子をまばらに配置したところ意外と客に好評だったため始めた」と創業者の小宮山正九郎が語っている。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;苦し紛れ…&lt;/p&gt;
+				
+				<pubDate>Sat, 27 Jun 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0627/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0627/</guid>
+			</item>
+		
+			<item>
+				<title>ルノアールの椅子</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/img/2015-04-26-renoir.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 26 Apr 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0426/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0426/</guid>
-        
-        
-        <category>note</category>
-        
-      </item>
-    
-      <item>
-        <title>おいしい缶詰</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/2015-04-25-yakitori-1.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;
-やきとりの缶詰。用途は専ら、おつまみである。鶏缶だけでも各種あるが、個人的にはホテイから出てる缶詰がちょっと味付け濃いめで好みだったりする。ビールに合わせたり、白ワインでも日本酒でもおいしい。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://shohin.kokubu.co.jp/foods/lineup/index.php?goods_category_id=001&amp;amp;goods_sub_category_id=108&quot;&gt;K&amp;amp;Kの缶つまシリーズ&lt;/a&gt;はホテイより味付け薄めで、家ではよくピザの具にしている。鶏のほかにもレストランシリーズ等々手を出してみたいが、いかんせんこちらは値が張るのだった…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/2015-04-25-yakitori-2.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;
-これ食べてみたいけど近くに売ってない。&lt;/p&gt;
+				
+				<pubDate>Sun, 26 Apr 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0426/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0426/</guid>
+			</item>
+		
+			<item>
+				<title>おいしい缶詰</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/img/2015-04-25-yakitori-1.png&quot; alt=&quot;&quot;&gt;  &lt;/p&gt;
 </description>
-        <pubDate>Sat, 25 Apr 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0425/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0425/</guid>
-        
-        
-        <category>note</category>
-        
-      </item>
-    
-      <item>
-        <title>最近聴いたもの</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://soulection.com/&quot;&gt;http://soulection.com/&lt;/a&gt;&lt;br&gt;
+				
+				<pubDate>Sat, 25 Apr 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0425/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0425/</guid>
+			</item>
+		
+			<item>
+				<title>最近聴いたもの</title>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;http://soulection.com/&quot;&gt;http://soulection.com/&lt;/a&gt;&lt;br&gt;
 &lt;a href=&quot;https://www.youtube.com/watch?v=9FcNurUkPC4&quot;&gt;Kool &amp;amp; The GangのSummer Madness&lt;/a&gt;みたいなチルっぽいR&amp;amp;Bがたくさん置いてあるネットレーベルをみつけた。&lt;br&gt;
 そういうわけでなぜかチルな春。&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;250&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/90059076&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt; 
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/163328088&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/187300968&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/94958997&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/99314754&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;250&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/42525056&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QhXaLO4Y7KA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AHyAGrKpzPQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K-ogh1hNtDU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/186760273&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166380847&amp;amp;color=00aabb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W8Cu8QXM3pQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sat, 18 Apr 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0418/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0418/</guid>
-        
-        
-        <category>music</category>
-        
-      </item>
-    
-      <item>
-        <title>ターミナルをはじめる</title>
-        <description>&lt;p&gt;知っておいたほうが作業効率があがりそうだ、ということで業務の合間にターミナルを勉強している。プログラムはまだ難しいけど、基本操作ぐらいは慣れておきたい。 
-コマンドと縁のないPC生活を送ってきたため正直どこでなにをどうするのかもまるでわからないのだが、そうなると俄然モチベーションがあがる。何故か。  &lt;/p&gt;
-
-&lt;p&gt;通称&amp;quot;黒い画面&amp;quot;と呼ばれるターミナル(windowsではコマンドライン)。&lt;br&gt;
-パソコンの操作というと、マウスで画面上のアイコンをクリックしたりファイルをドラッグして別の場所に移したりするイメージが浮かびますが、この黒い画面の中にある決まった文言(コマンド)を打ち込むと、そういうのと同じ作業ができます。  &lt;/p&gt;
-
-&lt;p&gt;&amp;quot;ターミナル&amp;quot;はアプリケーションの名前で、黒い画面のことはシェルと呼ぶ。
-&lt;blockquote&gt;
-シェル (shell) はオペレーティングシステム (OS) のユーザーのためにインタフェースを提供するソフトウェアであり、カーネルのサービスへのアクセスを提供する。
-&lt;/blockquote&gt;  &lt;/p&gt;
-
-&lt;p&gt;まずわたしのシェル。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/2015-04-11-terminal.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;ずっとbashをつかってたけど最近zshにかえた。&lt;br&gt;
-ところでzshとは。&lt;/p&gt;
-
-&lt;blockquote&gt;
-Z shell（zsh, 英語発音: [ziː ʃel]）はUnixのコマンドシェルの1つである。 
-対話的なログインコマンドシェルとしても、強力なシェルスクリプトコマンドのインタープリターとしても使うことができる。
-&lt;/blockquote&gt;
-
-&lt;p&gt;bashよりはzshのほうが多機能なんだという。
-それにしてもttysってどんな意味なのだろう。ついチチヤスと読んでしまう。&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Last login: Sat Apr 11 18:00:09 on ttys000
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-
-&lt;p&gt;マークアップでもプログラミングでも、予めどこかのライブラリに格納されてる一連の作業を特定の単語を入力して呼び出す、みたいなことを繰り返していくのが基本。ピカチュウがモンスターボールから出てくるイメージ。&lt;br&gt;
-ちなみに、呼び出すだけではなく自分でこれはまとめといたほうがいいなと思うものを、変数を使ってどこかに格納しておくことも可能だったりする。&lt;/p&gt;
-
-&lt;p&gt;ターミナルではこのシェルにコマンドを入れていく。&lt;/p&gt;
-
-&lt;h4&gt;cd&lt;/h4&gt;
-
-&lt;p&gt;特定のディレクトリへ移動する&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;cd 移動したいディレクトリ
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;一つ上に戻りたいときは&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;cd -
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-
-&lt;h4&gt;ls&lt;/h4&gt;
-
-&lt;p&gt;(= list segment)&lt;br&gt;
-指定フォルダ内のファイルを一覧表示する&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/2015-04-11-terminal_2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;ユーザーディレクトリでlsするとこんなかんじ&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h4&gt;open&lt;/h4&gt;
-
-&lt;p&gt;ディレクトリ(またはファイル)をひらく&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;open ディレクトリ名(またはファイル名)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h4&gt;mv&lt;/h4&gt;
-
-&lt;p&gt;ファイルを移動する&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;mv 移動するファイル 移動先のディレクトリ
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-
-&lt;h4&gt;cp&lt;/h4&gt;
-
-&lt;p&gt;ディレクトリを指定してファイルをコピーする&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;cp コピーするファイル コピー先のディレクトリ
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;同じディレクトリのなかでファイルを複製する&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;cp 複製元のファイル 複製するファイル
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-
-&lt;h4&gt;mkdir&lt;/h4&gt;
-
-&lt;p&gt;ディレクトリをつくる&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;mkdir ディレクトリ名
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-
-&lt;p&gt;まだあるけど、とりあえずここまで。&lt;br&gt;
-マウスつかわずにfinderからファイルを開きたいとき、&lt;code&gt;open ディレクトリ&lt;/code&gt;のコマンドと&lt;code&gt;command+O&lt;/code&gt;のショートカットキーを組み合わせると、ぱぱっと目当てのファイルが開ける。もちろんディレクトリの部分にファイル名を入れれば、ショートカットキーを使わずに一発で開ける。&lt;/p&gt;
-
-&lt;p&gt;ちなみに、Mac上で管理するファイルの名前はできれば本当はぜんぶ英語にしたほうがよい。コマンドを英数字で打って、かな入力に切り替えて、日本語のファイル名を打って、だけでもなかなかの手間だからです。&lt;/p&gt;
-</description>
-        <pubDate>Sat, 11 Apr 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0411/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0411/</guid>
-        
-        
-        <category>terminal</category>
-        
-      </item>
-    
-      <item>
-        <title>ごあいさつ</title>
-        <description>&lt;p&gt;3年くらい別の場所でブログをつけていたのだが、仕事で忙しくしているうちにいままで自分が何を書いてきたのかがさっぱりわからなくなってたので、新たに場所を変えて仕切りなおしてみた。&lt;/p&gt;
-
-&lt;p&gt;いま自分のなかで感心があることや考えていることを中心にまとめていきます。&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Apr 2015 09:00:00 +0900</pubDate>
-        <link>http://phantomkun.webcrow.jp//2015/0409/</link>
-        <guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0409/</guid>
-        
-        
-        <category>note</category>
-        
-      </item>
-    
-  </channel>
-</rss>
-
-				</article>
 				
-			</div>
-		</div>
-					<footer> <!--footer-->
-				<div class="footer-column">
-			
-				</div>
-			</footer> <!--footer-->
-
-		<script src="/js/jquery.js"></script>
-		<script src="/js/fitvids.js"></script>
-		<script src="/js/jq.js"></script>
-		<script>
-  $(document).ready(function(){
-    $("div").fitVids();
-  });
-</script>
-
-		</div>
-
-	</body>
-</html>
+				<pubDate>Sat, 18 Apr 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0418/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0418/</guid>
+			</item>
+		
+			<item>
+				<title>ターミナルをはじめる</title>
+				
+				
+					<description>&lt;p&gt;知っておいたほうが作業効率があがりそうだ、ということで業務の合間にターミナルを勉強している。プログラムはまだ難しいけど、基本操作ぐらいは慣れておきたい。
+コマンドと縁のないPC生活を送ってきたため正直どこでなにをどうするのかもまるでわからないのだが、そうなると俄然モチベーションがあがる。何故か。  &lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 11 Apr 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0411/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0411/</guid>
+			</item>
+		
+			<item>
+				<title>ごあいさつ</title>
+				
+				
+					<description>&lt;p&gt;3年くらい別の場所でブログをつけていたのだが、仕事で忙しくしているうちにいままで自分が何を書いてきたのかがさっぱりわからなくなってたので、新たに場所を変えて仕切りなおしてみた。&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 09 Apr 2015 09:00:00 +0900</pubDate>
+				<link>http://phantomkun.webcrow.jp//2015/0409/</link>
+				<guid isPermaLink="true">http://phantomkun.webcrow.jp//2015/0409/</guid>
+			</item>
+		
+	</channel>
+</rss>
