@@ -26,22 +26,26 @@
 	<body>
 		<div class='row'>
 
-			<div class='span two'>
+			<div class='span two head_scroll'>
 				
 
-					<h1 class="blog"><a href="/">rotanev</a> <a href="/about/" class="name">about</a></h1><hr>
+					<h1 class="blog"><a href="/" class="blog_name">rotanev</a> 		<ul class="name">
+								
+								<li><a href="/about/">about</a></li>
+								<li><a href="/profile/">profile</a></li>
+								</ul></h1><hr class="mob">
 
 			</div>
 			<div class='span eight'>
-				<article>	
+				<article>
 									<header class="post"> <!--post-->
 					<ul class="cf">
 							<li>
-							<h2>最近聴いたもの </h2>
 							<div class="date">2015-04-18 /  music </div>
+							<h2>最近聴いたもの </h2>
 							</li>
 					</ul>
-					
+
 				</header>
 				<section class="post">
 					<p><a href="http://soulection.com/">http://soulection.com/</a><br>
@@ -96,23 +100,10 @@
 
 
 				</section>
-				<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'rotanev';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-				<!--post-->
-				</article>
 				
+
+				</article>
+
 			</div>
 		</div>
 					<footer> <!--footer-->
@@ -121,16 +112,16 @@
 				</div>
 			</footer> <!--footer-->
 
-		<script src="/js/jquery.js"></script>
-		<script src="/js/fitvids.js"></script>
-		<script src="/js/jq.js"></script>
-		<script>
-  $(document).ready(function(){
-    $("div").fitVids();
-  });
-</script>
+
+
 
 		</div>
 
 	</body>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="/js/fitvids.js"></script>
+<script>
+$(document).ready(function(){
+$("div").fitVids();
+});</script>
 </html>

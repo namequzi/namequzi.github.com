@@ -1,3 +1,6 @@
 
 
-					<h1 class="blog"><a href="{{ site.baseurl }}/">rotanev</a> <a href="{{ site.baseurl }}/about/" class="name">about</a></h1><hr>
+					<h1 class="blog"><a href="{{ site.baseurl }}/" class="blog_name">rotanev</a> 		<ul class="name">
+								{% for page in site.pages %}{% if page.title %}
+								<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>{% endif %}{% endfor %}
+								</ul></h1><hr class="mob">

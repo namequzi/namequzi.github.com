@@ -6,8 +6,8 @@ layout: default
 					<ul>
 						{% for post in site.posts %}
 						<li>
+							<span class="date">{{ post.date | date: "%Y-%m-%d" }} </span>
 							<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-							<span class="date">{{ post.date | date: "%Y-%m-%d" }} / {% for category in  post.categories %} {{ category }} {% endfor %}</span>
 						</li>
 					{% endfor %}
 					</ul>
