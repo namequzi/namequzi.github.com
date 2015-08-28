@@ -47,10 +47,10 @@ div.footer-column{
 section.post,
 section.pages{
 	color: #333;
-	font-size: 0.95em;
-	line-height: 32px;
+	font-size: 0.92em;
+	line-height: 28px;
 	letter-spacing: 0.03em;
-	text-align: justify;
+	text-align:inherit;
 	vertical-align: text-top;
 
 }
