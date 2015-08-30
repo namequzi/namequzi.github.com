@@ -7,6 +7,18 @@
 		<atom:link href="http://namequzi.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>コンピューターの思い出</title>
+				
+				
+					<description>&lt;p&gt;そういえばコンピューターというものに触れるようになって、もう16年くらいになる。16年という歳月はコンピュータの歴史から考えると非常に長くて濃密だ。この数年でモバイル端末は電話子機から光る一枚の板になってしまったし、今度は折ったり曲げたりして腕にはめられるウェアラブルデバイスなんていうすごいものが世に出ようとしているわけで、3~5年でこんなに進歩するのだから、コンピュータの16年なんて大河である。サルはロボコップになりライカは月へ行き、こんな調子だと数年後には腕時計のボタンをピッと押して光り輝く半透明の液晶が宙に現れて無線通信とかしはじめるに違いない。&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 30 Aug 2015 09:00:00 +0900</pubDate>
+				<link>http://namequzi.github.io/2015/0830/</link>
+				<guid isPermaLink="true">http://namequzi.github.io/2015/0830/</guid>
+			</item>
+		
+			<item>
 				<title>Photoshopのワークスペースを作りなおした</title>
 				
 				
@@ -116,18 +128,6 @@ rubyをまったくアップデートしてなかったのが理由でした。&
 				<pubDate>Sat, 11 Apr 2015 09:00:00 +0900</pubDate>
 				<link>http://namequzi.github.io/2015/0411/</link>
 				<guid isPermaLink="true">http://namequzi.github.io/2015/0411/</guid>
-			</item>
-		
-			<item>
-				<title>ごあいさつ</title>
-				
-				
-					<description>&lt;p&gt;3年くらい別の場所でブログをつけていたのだが、仕事で忙しくしているうちにいままで自分が何を書いてきたのかがさっぱりわからなくなってたので、新たに場所を変えて仕切りなおしてみた。&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 09 Apr 2015 09:00:00 +0900</pubDate>
-				<link>http://namequzi.github.io/2015/0409/</link>
-				<guid isPermaLink="true">http://namequzi.github.io/2015/0409/</guid>
 			</item>
 		
 	</channel>
